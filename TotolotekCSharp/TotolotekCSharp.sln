@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotolotekCSharp", "TotolotekCSharp\TotolotekCSharp.csproj", "{7AAB9E4C-A324-4228-9624-E5AB84BFF531}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AAB9E4C-A324-4228-9624-E5AB84BFF531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AAB9E4C-A324-4228-9624-E5AB84BFF531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AAB9E4C-A324-4228-9624-E5AB84BFF531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AAB9E4C-A324-4228-9624-E5AB84BFF531}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DD060A4-49D1-400B-BB1E-C3F8157410AD}
+	EndGlobalSection
+EndGlobal

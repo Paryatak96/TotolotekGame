@@ -1,0 +1,7 @@
+C:\Users\Sebastian\Source\Repos\TotolotekCSharp\TotolotekCSharp\obj\Debug\TotolotekCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Source\Repos\TotolotekCSharp\TotolotekCSharp\bin\Debug\TotolotekCSharp.exe.config
+C:\Users\Sebastian\Source\Repos\TotolotekCSharp\TotolotekCSharp\bin\Debug\TotolotekCSharp.exe
+C:\Users\Sebastian\Source\Repos\TotolotekCSharp\TotolotekCSharp\bin\Debug\TotolotekCSharp.pdb
+C:\Users\Sebastian\Source\Repos\TotolotekCSharp\TotolotekCSharp\obj\Debug\TotolotekCSharp.exe
+C:\Users\Sebastian\Source\Repos\TotolotekCSharp\TotolotekCSharp\obj\Debug\TotolotekCSharp.pdb
+C:\Users\Sebastian\Source\Repos\TotolotekCSharp\TotolotekCSharp\obj\Debug\TotolotekCSharp.csprojAssemblyReference.cache
